@@ -1,0 +1,14 @@
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\bin\Debug\Artesanias AMG.exe.config
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias AMG.csprojResolveAssemblyReference.cache
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias_AMG.Properties.Resources.resources
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias AMG.csproj.GenerateResource.Cache
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\bin\Debug\artesanias.accdb
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\bin\Debug\Artesanias AMG.exe
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\bin\Debug\Artesanias AMG.pdb
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias AMG.exe
+c:\users\aguerinx\documents\visual studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias AMG.pdb
+C:\Users\aguerinx\Documents\Visual Studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias AMG.csproj.ResolveComReference.cache
+C:\Users\aguerinx\Documents\Visual Studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias_AMG.frmReportes.resources
+C:\Users\aguerinx\Documents\Visual Studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias_AMG.frmVentas.resources
+C:\Users\aguerinx\Documents\Visual Studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias_AMG.frmProducto.resources
+C:\Users\aguerinx\Documents\Visual Studio 2015\Projects\Artesanias AMG\Artesanias AMG\obj\Debug\Artesanias_AMG.frmPrincipal.resources
